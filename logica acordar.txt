@@ -1,0 +1,19 @@
+logica acordar
+
+Inicio
+
+1- celular tocou? não
+    1-não acorda
+
+1- celular tocou? sim
+    1- acorda
+    2- abre o olho
+    3- pega celular
+    4- destrava celular
+    5- olha a hora
+    6- Hora é maior ou igual a 6? não
+            volta a dormir
+    6- hora é maior ou igual a 6? sim
+            levanta da cama
+            
+fim
